@@ -5,7 +5,7 @@ This repository contains a set of scripts to automate the setup of a development
 ## Directory Structure
 
 ```plaintext
-wsl-setup/
+.
 ├── install/
 │   ├── 01-homebrew.sh       # Install Homebrew
 │   ├── 02-packages.sh       # Install required packages (zsh, git, stow, tmux, neovim)
@@ -51,8 +51,8 @@ wsl-setup/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/wsl-setup.git
-   cd wsl-setup
+   git clone https://github.com/your-username/wsl-local-setup.git
+   cd wsl-local-setup
    ```
 
 2. Run the setup script:
